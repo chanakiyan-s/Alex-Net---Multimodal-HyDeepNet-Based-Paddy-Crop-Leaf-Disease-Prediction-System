@@ -1,0 +1,2 @@
+# Alex-Net---Multimodal-HyDeepNet-Based-Paddy-Crop-Leaf-Disease-Prediction-System
+This project provides a precise and efficient method for detecting and classifying paddy crop leaf diseases using advanced deep learning and feature fusion techniques.  The system preprocesses images using techniques like rescaling, flipping, rotation, and zooming to enhance data quality and model robustness. Two deep learning models are used
